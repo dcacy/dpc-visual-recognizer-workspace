@@ -1,0 +1,12 @@
+{
+   "spaceName": "DPC Space ߎ颬",
+   "spaceId": "598b2986e4b06088450268f9",
+   "annotationPayload": "{\"type\":\"actionSelected\",\"annotationId\":\"5b34de9ee4b0faa890bc155e\",\"type\":\"actionSelected\",\"version\":\"1.0\",\"created\":1530191518791,\"createdBy\":\"4885c287-19e5-44df-a048-398d15f94b2c\",\"updated\":1530191518791,\"updatedBy\":\"4885c287-19e5-44df-a048-398d15f94b2c\",\"tokenClientId\":\"toscana-web-client-id\",\"conversationId\":\"598b2986e4b06088450268f9\",\"targetDialogId\":\"5b345cd7e4b050fbabfd67f1-0\",\"referralMessageId\":\"5b345cd7e4b02a6cedf36ce7\",\"actionId\":\"View Analysis\",\"targetAppId\":\"f79bf52e-30e3-4ed1-b791-5d0e1cc7b35e\"}",
+   "messageId": "5b34de9ee4b0faa890bc155d",
+   "annotationType": "actionSelected",
+   "annotationId": "5b34de9ee4b0faa890bc155e",
+   "time": 1530191518791,
+   "type": "message-annotation-added",
+   "userName": "Darren Cacy",
+   "userId": "4885c287-19e5-44df-a048-398d15f94b2c"
+}

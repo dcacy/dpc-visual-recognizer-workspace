@@ -1,0 +1,14 @@
+---
+applications:
+- name: <your app name>
+  memory: 128M
+  host: <your app's host name>
+  domain: mybluemix.net
+  env:
+    APP_ID: <your app's workspace id>
+    APP_SECRET: <your app's secret>
+    WEBHOOK_SECRET: <your app's webhook secret>
+    WW_SDK_LOGGER_LEVEL: info|debug|verbose
+    DEBUG: dpc-visual-*
+  services:
+    - <your visual recognition service name on bluemix>   
