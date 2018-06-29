@@ -1,6 +1,6 @@
 {
   "name": "dpc-visual-recognizer-workspace",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Annotate images posted to a Workspace space",
   "main": "app.js",
   "scripts": {
@@ -12,7 +12,6 @@
     "cfenv": "^1.1.0",
     "debug": "^3.1.0",
     "dotenv": "^6.0.0",
-    "express": "^4.16.3",
     "watson-developer-cloud": "^3.5.1",
     "watsonworkspace-bot": "^2.0.6"
   }
